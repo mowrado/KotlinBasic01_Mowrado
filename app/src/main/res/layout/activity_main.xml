@@ -13,7 +13,7 @@
     android:text="클릭용 버튼"/>
 
     <Button
-        android:id="smallBtn"
+        android:id="@+id/smallBtn"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="작은버튼"/>
