@@ -6,5 +6,15 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+<Button
+    android:id="@+id/clickBtn"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="클릭용 버튼"/>
 
+    <Button
+        android:id="smallBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="작은버튼"/>
 </LinearLayout>
